@@ -16,7 +16,7 @@
     "expo-font": "~8.0.0",
     "firebase": "^7.6.1",
     "firebase-auth": "^0.1.2",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "native-base": "^2.13.8",
     "react": "~16.9.0",
     "react-dom": "~16.9.0",
